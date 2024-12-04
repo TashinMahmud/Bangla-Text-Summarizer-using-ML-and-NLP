@@ -99,8 +99,10 @@ bangla-text-summarizer/
 ---
 
 ## Contributors  
-- **[Your Name]** - Project Lead  
-- **[Other Team Member(s)]** - Contributor(s)  
+- **[Md. Tanjeelur Rahman Labib]** - Project Lead  
+- **[Tashin Mahmud Khan]** - Contributor(s)
+- **[Md. Tasin Hossain Toha]** - Contributor(s)
+- **[Md. Saikot Hossain Sojib]** - Contributor(s) 
 
 ---
 
